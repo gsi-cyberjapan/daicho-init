@@ -1,3 +1,6 @@
+*.sqlite3
+*.sqlite3-journal
+
 *.gem
 *.rbc
 /.config
